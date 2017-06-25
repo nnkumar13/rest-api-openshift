@@ -19,7 +19,7 @@
     <profile>
         <id>openshift</id>
         <build>
-            <finalName>rest-service</finalName>
+            <finalName>rest-api-openshift</finalName>
             <plugins>
                 <plugin>
                     <artifactId>maven-war-plugin</artifactId>
